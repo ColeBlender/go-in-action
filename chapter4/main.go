@@ -1,8 +1,8 @@
 package main
 
-import (
-	"github.com/ColeBlender/go-in-action/chapter4/slice"
-)
+import "github.com/ColeBlender/go-in-action/chapter4/map_"
+
+// "github.com/ColeBlender/go-in-action/chapter4/map_"
 
 func main() {
 	// fmt.Println("Dank")
@@ -29,5 +29,6 @@ func main() {
 	// fmt.Println(a)
 	// fmt.Println(*a[0])
 
-	slice.Slice()
+	// slice.Slice()
+	map_.Map_()
 }
